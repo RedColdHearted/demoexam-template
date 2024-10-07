@@ -1,0 +1,5 @@
+# sqlite file
+db.sqlite3
+
+#python venv
+.venv
